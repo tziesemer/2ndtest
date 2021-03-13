@@ -1,0 +1,56 @@
+
+body {
+	background-color: #085394;
+}
+
+h1 {
+  position: fixed;
+  top: 0px;
+  left: 130px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 50px;
+}
+a {
+	font-family: verdana;
+	color: black;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+a:hover {
+	background-color: red;
+}
+.topmenu {
+	position: fixed;
+	top: 40px;
+	right: 30px;
+}
+.sidemenu {
+	position: fixed;
+	top: 250px;
+	left: 20px;
+}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+
+.sideimage {
+	postion: fixed;
+	left: 20px;
+	top: 200px;
+}
+
+.mainbody {
+	position: fixed;
+	right: 150px;
+	top: 200px;
+}
